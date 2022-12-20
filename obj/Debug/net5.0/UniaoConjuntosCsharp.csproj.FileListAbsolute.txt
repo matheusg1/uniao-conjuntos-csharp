@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\bin\Debug\net5.0\UniaoConjuntosCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\refint\UniaoConjuntosCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\UniaoConjuntosCsharp.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\UniaoConjuntosCsharp\UniaoConjuntosCsharp\obj\Debug\net5.0\ref\UniaoConjuntosCsharp.dll
